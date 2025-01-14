@@ -7,7 +7,7 @@ Le Générateur d'Art ASCII est un programme simple qui prend du texte en entré
 
 1. Clonez ce dépôt sur votre machine locale :
    ```
-   git clone <https://github.com/CharlesVIO/-ASCII_Generator-VIOSSAT-CDOF3>
+   git clone https://github.com/CharlesVIO/-ASCII_Generator-VIOSSAT-CDOF3
    ```
 
 
@@ -22,7 +22,7 @@ Le Générateur d'Art ASCII est un programme simple qui prend du texte en entré
 
 Les contributions sont toujours les bienvenues ! Suivez ces étapes pour contribuer :
 
-1. clonner le dépôt.
+1. cloner le dépôt.
 2. Apportez vos modifications et testez-les minutieusement.
 4. Validez vos modifications avec un message descriptif :
    ```
